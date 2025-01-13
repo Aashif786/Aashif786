@@ -3,9 +3,9 @@
 ## 👩‍💻 Hi I'm Aashif Shadin
 
 
-### 🔗 LinkedIn Profile [Aashif Shadin LinkedIn](https://linkedin.com/aashifnoor)
+### 🔗 LinkedIn Profile LinkedIn](https://linkedin.com/aashifnoor)
 
-### 🐱 Leetcode  [Aashif Shadin Leetcode](https://leetcode.com/Aashif_AK)
+### 🐱 Leetcode  [Leetcode](https://leetcode.com/Aashif_AK)
 
 ## 🌱 Areas of Interest
 - Data Analyst
