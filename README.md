@@ -3,7 +3,7 @@
 ## 👩‍💻 Hi I'm Aashif Shadin
 
 
-### 🔗 LinkedIn Profile LinkedIn](https://linkedin.com/aashifnoor)
+### 🔗 LinkedIn Profile [LinkedIn](https://linkedin.com/aashifnoor)
 
 ### 🐱 Leetcode  [Leetcode](https://leetcode.com/Aashif_AK)
 
