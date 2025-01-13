@@ -1,16 +1,31 @@
-## Hi there 👋
+# Welcome to My GitHub
 
-<!--
-**Aashif786/Aashif786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Hi I'm Aashif Shadin
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 LinkedIn Profile [Aashif Shadin LinkedIn](https://linkedin.com/aashifnoor)
+
+### 🐱 Leetcode  [Aashif Shadin Leetcode](https://leetcode.com/Aashif_AK)
+
+## 🌱 Areas of Interest
+- Data Analyst
+- Data Engineering
+- Data Science
+- Machine Learning
+
+
+## 🛠️ Skills
+- Power BI
+- Tableau
+- SQL
+- Python
+- Java
+- Machine Learning Algorithms
+- Git and GitHub
+
+## 📬 Contact Information
+- Email: aashifanshaf786@gmail.com
+
+# Leetcode
+### Leetcode-solved
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aashif_AK?theme=catppuccinMocha&font=Anek%20Tamil&ext=heatmap)
