@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-## 👩‍💻 Hi I'm Aashif Shadin
+## 👩‍💻 Hi I'm Aashif
 
 
 ### 🔗 LinkedIn Profile [LinkedIn](https://linkedin.com/aashifnoor)
@@ -18,6 +18,7 @@
 - Power BI
 - Tableau
 - SQL
+- Shell Scripting
 - Python
 - Java
 - Machine Learning Algorithms
