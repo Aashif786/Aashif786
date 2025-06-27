@@ -1,4 +1,4 @@
-# Welcome to My GitHub ![](https://komarev.com/ghpvc/?username=your-github-username&label=Aashif786)
+# Welcome to My GitHub ![](https://komarev.com/ghpvc/?username=Aashif786&label=PROFILE+VIEWS)
 
 ## 👩‍💻 Hi I'm Aashif
 
