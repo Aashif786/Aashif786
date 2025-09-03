@@ -76,7 +76,7 @@
 </p>
 
 <!-- GITHUB STATS SECTION -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashif786&theme=radical&hide_border=true" alt="GitHub Streak" />
