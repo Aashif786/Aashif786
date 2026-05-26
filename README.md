@@ -91,59 +91,193 @@ status     : Open to Internships & Collaborations
 
 **Programming Languages**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,postgres&theme=dark&perline=5" />
-</p>
+<table align="center"><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" /><br/>
+<sub><b>Python</b></sub><br/>
+<sub><code>█████████░</code> &nbsp; Expert</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" /><br/>
+<sub><b>Java</b></sub><br/>
+<sub><code>████████░░</code> &nbsp; Advanced</sub>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" /><br/>
+<sub><b>JavaScript</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" /><br/>
+<sub><b>C / C++</b></sub><br/>
+<sub><code>██████░░░░</code> &nbsp; Intermediate</sub>
+</td>
+</tr><tr>
+<td align="center" colspan="2">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" /><br/>
+<sub><b>SQL</b></sub><br/>
+<sub><code>████████░░</code> &nbsp; Advanced</sub>
+</td>
+</tr></table>
 
 <br/>
 
 **Full Stack Development**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,docker,nginx&theme=dark&perline=5" />
-</p>
+<table align="center"><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" /><br/>
+<sub><b>React</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="40" /><br/>
+<sub><b>FastAPI</b></sub><br/>
+<sub><code>████████░░</code> &nbsp; Advanced</sub>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" /><br/>
+<sub><b>Node.js</b></sub><br/>
+<sub><code>██████░░░░</code> &nbsp; Intermediate</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" /><br/>
+<sub><b>Docker</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+</tr></table>
 
 <br/>
 
 **AI / Machine Learning**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark&perline=5" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1a1a2e?style=flat-square&logo=chainlink&logoColor=375BD2" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-1a1a2e?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP%20%2F%20XAI-00C9A7?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20Search-FF6F00?style=flat-square&logoColor=white" />
-</p>
+<table align="center"><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40" /><br/>
+<sub><b>TensorFlow</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="40" /><br/>
+<sub><b>Scikit-Learn</b></sub><br/>
+<sub><code>████████░░</code> &nbsp; Advanced</sub>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40" /><br/>
+<sub><b>PyTorch</b></sub><br/>
+<sub><code>██████░░░░</code> &nbsp; Intermediate</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/48/chatgpt.png" width="40" /><br/>
+<sub><b>OpenAI API</b></sub><br/>
+<sub><code>████████░░</code> &nbsp; Advanced</sub>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" /><br/>
+<sub><b>LangChain</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/48/analytics.png" width="40" /><br/>
+<sub><b>SHAP / XAI</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+</tr></table>
 
 <br/>
 
 **Data Science & Analytics**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-0e4c8a?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3d6b99?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+<table align="center"><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" /><br/>
+<sub><b>Pandas</b></sub><br/>
+<sub><code>█████████░</code> &nbsp; Expert</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/48/numpy.png" width="40" /><br/>
+<sub><b>NumPy</b></sub><br/>
+<sub><code>████████░░</code> &nbsp; Advanced</sub>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="40" /><br/>
+<sub><b>Matplotlib</b></sub><br/>
+<sub><code>████████░░</code> &nbsp; Advanced</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/color/48/area-chart.png" width="40" /><br/>
+<sub><b>Seaborn</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+</tr><tr>
+<td align="center" colspan="2">
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="40" /><br/>
+<sub><b>Jupyter</b></sub><br/>
+<sub><code>█████████░</code> &nbsp; Expert</sub>
+</td>
+</tr></table>
 
 <br/>
 
 **Databases**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&perline=3" />
-</p>
+<table align="center"><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" /><br/>
+<sub><b>PostgreSQL</b></sub><br/>
+<sub><code>████████░░</code> &nbsp; Advanced</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" /><br/>
+<sub><b>MySQL</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+</tr><tr>
+<td align="center" colspan="2">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="40" /><br/>
+<sub><b>Redis / Vector DB</b></sub><br/>
+<sub><code>█████░░░░░</code> &nbsp; Familiar</sub>
+</td>
+</tr></table>
 
 <br/>
 
 **Tools & Platforms**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark&perline=5" />
-</p>
+<table align="center"><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br/>
+<sub><b>Git</b></sub><br/>
+<sub><code>█████████░</code> &nbsp; Expert</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" /><br/>
+<sub><b>GitHub</b></sub><br/>
+<sub><code>█████████░</code> &nbsp; Expert</sub>
+</td>
+</tr><tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" /><br/>
+<sub><b>Linux</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" /><br/>
+<sub><b>VS Code</b></sub><br/>
+<sub><code>█████████░</code> &nbsp; Expert</sub>
+</td>
+</tr><tr>
+<td align="center" colspan="2">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" /><br/>
+<sub><b>Postman</b></sub><br/>
+<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+</td>
+</tr></table>
 
 <br/>
 
