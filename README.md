@@ -2,12 +2,33 @@
 
 <img src="https://komarev.com/ghpvc/?username=Aashif786&label=Profile+Views&color=00C9A7&style=flat-square" align="right" />
 
-<!-- HERO BANNER: animated cylinder with glitch text -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=260&color=0:0D1117,50:0a2a2a,100:0D1117&text=Aashif%20Noor&fontColor=00C9A7&fontSize=80&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Data%20Scientist&descSize=20&descFontColor=88ddcc&descAlignY=70&stroke=00C9A7&strokeWidth=2&animation=blinking" width="100%" />
+<!-- HERO: wave background + clean name + orbit animation -->
+<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0D1117,40:0d2d2d,100:0D1117&section=header&reversal=false" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=00C9A7&center=true&vCenter=true&width=750&height=45&lines=Building+Intelligent+Systems;Architecting+Scalable+AI+Applications;Turning+Raw+Data+Into+Decisions;Think.+Build.+Solve." />
+<!-- Animated orbit SVG with name in center -->
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=9999&pause=9999&color=00C9A755&center=true&vCenter=true&width=700&height=20&lines=%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94" />
+</picture>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=4000&pause=3000&color=00C9A7&center=true&vCenter=true&width=500&height=70&lines=Aashif+Noor" />
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2800&pause=700&color=88ddcc&center=true&vCenter=true&width=700&height=30&lines=AI+Engineer+%C2%B7+Full+Stack+Developer+%C2%B7+Data+Scientist" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=700&color=00C9A7&center=true&vCenter=true&width=750&height=36&lines=Building+Intelligent+Systems;Architecting+Scalable+AI+Applications;Turning+Raw+Data+Into+Decisions;Think.+Build.+Solve." />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=0:0D1117,40:0d2d2d,100:0D1117&section=footer&reversal=true" width="100%" />
 
 </div>
 
@@ -87,13 +108,13 @@ status     : Open to Internships & Collaborations
 **AI / Machine Learning**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,flask,fastapi&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark&perline=5" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square&logo=chainlink&logoColor=375BD2&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-1C1C1C?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/SHAP%20%2F%20XAI-1C1C1C?style=flat-square&logoColor=00C9A7&labelColor=1a1a2e&color=00C9A7" />
-  <img src="https://img.shields.io/badge/Vector%20Search-1C1C1C?style=flat-square&logoColor=FF6F00&labelColor=1a1a2e&color=FF6F00" />
+  <img src="https://img.shields.io/badge/LangChain-1a1a2e?style=flat-square&logo=chainlink&logoColor=375BD2" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-1a1a2e?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP%20%2F%20XAI-00C9A7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Search-FF6F00?style=flat-square&logoColor=white" />
 </p>
 
 <br/>
@@ -101,8 +122,6 @@ status     : Open to Internships & Collaborations
 **Data Science & Analytics**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-0e4c8a?style=for-the-badge&logo=python&logoColor=white" />
@@ -145,7 +164,7 @@ status     : Open to Internships & Collaborations
 
 <div align="center">
 
-### Recruitment Intelligence & Management System — RIMS
+### <img src="https://img.icons8.com/fluency/48/000000/recruitment.png" width="28" align="center" /> &nbsp; Recruitment Intelligence & Management System — RIMS
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -160,37 +179,12 @@ status     : Open to Internships & Collaborations
 
 <br/>
 
-**System Architecture**
-
-```
-┌─────────────────┐     ┌──────────────────┐     ┌───────────────────────┐
-│  Candidate      │────▶│  AI Resume       │────▶│  Ranking & Scoring    │
-│  Portal         │     │  Engine          │     │  Module               │
-└─────────────────┘     └──────────────────┘     └───────────┬───────────┘
-         ▲                       ▲                            │
-         │                       │                            ▼
-┌─────────────────┐     ┌──────────────────┐     ┌───────────────────────┐
-│  Role-Based     │◀────│  Report          │◀────│  Workflow             │
-│  Dashboards     │     │  Generator       │     │  Orchestrator         │
-└────────┬────────┘     └──────────────────┘     └───────────┬───────────┘
-         │                                                     │
-         ▼                                                     ▼
-┌─────────────────┐                              ┌───────────────────────┐
-│  Analytics      │                              │  Agentic AI Layer     │
-│  Layer          │                              │  (in progress)        │
-└─────────────────┘                              └───────────────────────┘
-```
-
-<br/>
-
-**Capabilities**
-
 | Module | Description |
 |---|---|
 | AI Resume Engine | Automated resume parsing, scoring, and candidate shortlisting |
 | Candidate Ranking | Intelligent multi-factor ranking across applicant pools |
 | Role Dashboards | Tailored views for recruiters, hiring managers, and admins |
-| Report Generator | Automated pipeline reporting and exportable hiring insights |
+| Report Generator | Automated reporting and exportable hiring insights |
 | Agentic AI Layer | Autonomous evaluation and intelligent recruitment assistance (WIP) |
 
 </td>
@@ -206,7 +200,7 @@ status     : Open to Internships & Collaborations
 
 <div align="center">
 
-### AI Coding Assistant
+### <img src="https://img.icons8.com/fluency/48/000000/code.png" width="28" align="center" /> &nbsp; AI Coding Assistant
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -219,30 +213,6 @@ status     : Open to Internships & Collaborations
 *An intelligent developer-support platform built beyond chatbot architecture — combining large language models, tool-assisted reasoning, and code analysis pipelines to supercharge programming productivity.*
 
 <br/>
-
-**System Design**
-
-```
-┌──────────────┐     ┌────────────────────────┐     ┌──────────────────┐
-│  User Query  │────▶│  Prompt Orchestration  │────▶│  LLM Engine      │
-└──────────────┘     │  Layer                 │     └────────┬─────────┘
-                     └────────────┬───────────┘              │
-                                  │                           ▼
-                     ┌────────────▼───────────┐     ┌──────────────────┐
-                     │  Tool-Assisted         │     │  Code Analysis   │
-                     │  Reasoning             │     │  Pipeline        │
-                     └────────────┬───────────┘     └────────┬─────────┘
-                                  │                           │
-                     ┌────────────▼───────────────────────────▼─────────┐
-                     │         Vector Search  ·  Knowledge Retrieval     │
-                     └────────────────────────────────────────┬──────────┘
-                                                              │
-                                               Developer Response + Explanation
-```
-
-<br/>
-
-**Capabilities**
 
 | Feature | Description |
 |---|---|
@@ -265,7 +235,7 @@ status     : Open to Internships & Collaborations
 
 <div align="center">
 
-### Agricultural Products Price Prediction System
+### <img src="https://img.icons8.com/fluency/48/000000/rice-bowl.png" width="28" align="center" /> &nbsp; Agricultural Products Price Prediction System
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -279,30 +249,12 @@ status     : Open to Internships & Collaborations
 
 <br/>
 
-**ML Pipeline**
-
-```
-┌──────────────────────┐     ┌───────────────────────────┐     ┌──────────────────┐
-│  Raw Agricultural    │────▶│  EDA & Feature            │────▶│  Model Training  │
-│  Dataset             │     │  Engineering              │     │  & Tuning        │
-└──────────────────────┘     └───────────────────────────┘     └────────┬─────────┘
-                                                                         │
-┌──────────────────────┐     ┌───────────────────────────┐              │
-│  Visualization       │◀────│  Pricing Pattern          │◀─────────────┘
-│  Layer               │     │  Insights                 │     Predictive Forecasting
-└──────────────────────┘     └───────────────────────────┘
-```
-
-<br/>
-
-**Capabilities**
-
 | Module | Description |
 |---|---|
 | EDA & Feature Eng. | Deep exploratory analysis and domain-driven feature construction |
 | Predictive Modeling | Regression models for commodity price forecasting |
 | Pattern Analysis | Trend detection across historical market behavior |
-| Visualization | Interactive charts for pricing insights and model performance |
+| Visualization | Charts for pricing insights and model performance |
 | Decision Support | Actionable forecasting output for agricultural economics |
 
 </td>
@@ -318,7 +270,7 @@ status     : Open to Internships & Collaborations
 
 <div align="center">
 
-### Flood Probability Prediction using Explainable AI — XAI
+### <img src="https://img.icons8.com/fluency/48/000000/storm.png" width="28" align="center" /> &nbsp; Flood Probability Prediction using Explainable AI — XAI
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -331,31 +283,6 @@ status     : Open to Internships & Collaborations
 *An interpretable ML system that predicts flood risk from environmental and climatic data — replacing black-box opacity with transparent, explanation-driven predictions built for disaster preparedness.*
 
 <br/>
-
-**XAI Pipeline**
-
-```
-┌─────────────────────────────┐     ┌──────────────────┐     ┌──────────────────┐
-│  Environmental &            │────▶│  Preprocessing & │────▶│  ML Model        │
-│  Climatic Data              │     │  Feature Scaling │     │  Training        │
-└─────────────────────────────┘     └──────────────────┘     └────────┬─────────┘
-                                                                        │
-                                    ┌──────────────────┐               │
-                                    │  Explainability  │◀──────────────┘
-                                    │  Layer (SHAP)    │
-                                    └────────┬─────────┘
-                                             │
-                          ┌──────────────────▼──────────────────────┐
-                          │   Feature Attribution · SHAP Values      │
-                          │   Force Plots · Summary Plots            │
-                          └──────────────────┬──────────────────────┘
-                                             │
-                                    Flood Risk Report + Preparedness Insights
-```
-
-<br/>
-
-**Capabilities**
 
 | Component | Description |
 |---|---|
@@ -491,7 +418,7 @@ status     : Open to Internships & Collaborations
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a2a2a,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0D1117,50:0d2d2d,100:0D1117&section=footer" width="100%" />
 
 <br/>
 
