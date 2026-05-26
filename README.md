@@ -92,32 +92,30 @@ status     : Open to Internships & Collaborations
 **Programming Languages**
 
 <table align="center"><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" /><br/>
 <sub><b>Python</b></sub><br/>
-<sub><code>█████████░</code> &nbsp; Expert</sub>
+<sub><code>█████████░</code> Expert</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" /><br/>
 <sub><b>Java</b></sub><br/>
-<sub><code>████████░░</code> &nbsp; Advanced</sub>
+<sub><code>████████░░</code> Advanced</sub>
 </td>
-</tr><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" /><br/>
 <sub><b>JavaScript</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" /><br/>
 <sub><b>C / C++</b></sub><br/>
-<sub><code>██████░░░░</code> &nbsp; Intermediate</sub>
+<sub><code>██████░░░░</code> Intermediate</sub>
 </td>
-</tr><tr>
-<td align="center" colspan="2">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" /><br/>
 <sub><b>SQL</b></sub><br/>
-<sub><code>████████░░</code> &nbsp; Advanced</sub>
+<sub><code>████████░░</code> Advanced</sub>
 </td>
 </tr></table>
 
@@ -126,26 +124,25 @@ status     : Open to Internships & Collaborations
 **Full Stack Development**
 
 <table align="center"><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" /><br/>
 <sub><b>React</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="40" /><br/>
 <sub><b>FastAPI</b></sub><br/>
-<sub><code>████████░░</code> &nbsp; Advanced</sub>
+<sub><code>████████░░</code> Advanced</sub>
 </td>
-</tr><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" /><br/>
 <sub><b>Node.js</b></sub><br/>
-<sub><code>██████░░░░</code> &nbsp; Intermediate</sub>
+<sub><code>██████░░░░</code> Intermediate</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" /><br/>
 <sub><b>Docker</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
 </tr></table>
 
@@ -154,37 +151,35 @@ status     : Open to Internships & Collaborations
 **AI / Machine Learning**
 
 <table align="center"><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40" /><br/>
 <sub><b>TensorFlow</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="40" /><br/>
 <sub><b>Scikit-Learn</b></sub><br/>
-<sub><code>████████░░</code> &nbsp; Advanced</sub>
+<sub><code>████████░░</code> Advanced</sub>
 </td>
-</tr><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40" /><br/>
 <sub><b>PyTorch</b></sub><br/>
-<sub><code>██████░░░░</code> &nbsp; Intermediate</sub>
+<sub><code>██████░░░░</code> Intermediate</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://img.icons8.com/color/48/chatgpt.png" width="40" /><br/>
 <sub><b>OpenAI API</b></sub><br/>
-<sub><code>████████░░</code> &nbsp; Advanced</sub>
+<sub><code>████████░░</code> Advanced</sub>
 </td>
-</tr><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" /><br/>
 <sub><b>LangChain</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://img.icons8.com/color/48/analytics.png" width="40" /><br/>
 <sub><b>SHAP / XAI</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
 </tr></table>
 
@@ -193,32 +188,30 @@ status     : Open to Internships & Collaborations
 **Data Science & Analytics**
 
 <table align="center"><tr>
-<td align="center" width="50%">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" /><br/>
+<td align="center">
+<img src="https://img.icons8.com/color/48/pandas.png" width="40" /><br/>
 <sub><b>Pandas</b></sub><br/>
-<sub><code>█████████░</code> &nbsp; Expert</sub>
+<sub><code>█████████░</code> Expert</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://img.icons8.com/color/48/numpy.png" width="40" /><br/>
 <sub><b>NumPy</b></sub><br/>
-<sub><code>████████░░</code> &nbsp; Advanced</sub>
+<sub><code>████████░░</code> Advanced</sub>
 </td>
-</tr><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="40" /><br/>
 <sub><b>Matplotlib</b></sub><br/>
-<sub><code>████████░░</code> &nbsp; Advanced</sub>
+<sub><code>████████░░</code> Advanced</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://img.icons8.com/color/48/area-chart.png" width="40" /><br/>
 <sub><b>Seaborn</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
-</tr><tr>
-<td align="center" colspan="2">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="40" /><br/>
 <sub><b>Jupyter</b></sub><br/>
-<sub><code>█████████░</code> &nbsp; Expert</sub>
+<sub><code>█████████░</code> Expert</sub>
 </td>
 </tr></table>
 
@@ -227,21 +220,20 @@ status     : Open to Internships & Collaborations
 **Databases**
 
 <table align="center"><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" /><br/>
 <sub><b>PostgreSQL</b></sub><br/>
-<sub><code>████████░░</code> &nbsp; Advanced</sub>
+<sub><code>████████░░</code> Advanced</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" /><br/>
 <sub><b>MySQL</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
-</tr><tr>
-<td align="center" colspan="2">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="40" /><br/>
 <sub><b>Redis / Vector DB</b></sub><br/>
-<sub><code>█████░░░░░</code> &nbsp; Familiar</sub>
+<sub><code>█████░░░░░</code> Familiar</sub>
 </td>
 </tr></table>
 
@@ -250,32 +242,30 @@ status     : Open to Internships & Collaborations
 **Tools & Platforms**
 
 <table align="center"><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br/>
 <sub><b>Git</b></sub><br/>
-<sub><code>█████████░</code> &nbsp; Expert</sub>
+<sub><code>█████████░</code> Expert</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" /><br/>
 <sub><b>GitHub</b></sub><br/>
-<sub><code>█████████░</code> &nbsp; Expert</sub>
+<sub><code>█████████░</code> Expert</sub>
 </td>
-</tr><tr>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" /><br/>
 <sub><b>Linux</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
-<td align="center" width="50%">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" /><br/>
 <sub><b>VS Code</b></sub><br/>
-<sub><code>█████████░</code> &nbsp; Expert</sub>
+<sub><code>█████████░</code> Expert</sub>
 </td>
-</tr><tr>
-<td align="center" colspan="2">
+<td align="center">
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" /><br/>
 <sub><b>Postman</b></sub><br/>
-<sub><code>███████░░░</code> &nbsp; Proficient</sub>
+<sub><code>███████░░░</code> Proficient</sub>
 </td>
 </tr></table>
 
