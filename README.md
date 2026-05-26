@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" />
 
 <h1>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=4000&pause=3000&color=00C9A7&center=true&vCenter=true&width=500&height=70&lines=Aashif+Noor" />
@@ -67,7 +67,7 @@ status     : Open to Internships & Collaborations
 </td>
 <td valign="top" width="46%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="380" />
 
 <br/>
 
@@ -281,14 +281,19 @@ status     : Open to Internships & Collaborations
 
 <br/>
 
-<!-- PROJECT 1 -->
 <table>
 <tr>
-<td>
 
-<div align="center">
+<!-- CARD 1 -->
+<td align="center" width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency/48/000000/recruitment.png" width="28" align="center" /> &nbsp; Recruitment Intelligence & Management System — RIMS
+<br/>
+
+<img src="https://img.icons8.com/fluency/96/recruitment.png" width="64" />
+
+### Recruitment Intelligence & Management System
+
+*RIMS*
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -297,34 +302,28 @@ status     : Open to Internships & Collaborations
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Agentic%20AI-00C9A7?style=flat-square&logo=openai&logoColor=white" />
 
-</div>
+<br/><br/>
 
-*An AI-powered enterprise recruitment ecosystem that transforms modern hiring through intelligent automation, analytics-driven decision making, and agentic AI evaluation workflows.*
+An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, role-based dashboards, and agentic AI evaluation workflows for modern enterprise hiring.
+
+<br/><br/>
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786)
 
 <br/>
-
-| Module | Description |
-|---|---|
-| AI Resume Engine | Automated resume parsing, scoring, and candidate shortlisting |
-| Candidate Ranking | Intelligent multi-factor ranking across applicant pools |
-| Role Dashboards | Tailored views for recruiters, hiring managers, and admins |
-| Report Generator | Automated reporting and exportable hiring insights |
-| Agentic AI Layer | Autonomous evaluation and intelligent recruitment assistance (WIP) |
 
 </td>
-</tr>
-</table>
+
+<!-- CARD 2 -->
+<td align="center" width="50%" valign="top">
 
 <br/>
 
-<!-- PROJECT 2 -->
-<table>
-<tr>
-<td>
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="64" />
 
-<div align="center">
+### AI Coding Assistant
 
-### <img src="https://img.icons8.com/fluency/48/000000/code.png" width="28" align="center" /> &nbsp; AI Coding Assistant
+<br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -332,34 +331,31 @@ status     : Open to Internships & Collaborations
 <img src="https://img.shields.io/badge/Vector%20Search-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-00C9A7?style=flat-square" />
 
-</div>
+<br/><br/>
 
-*An intelligent developer-support platform built beyond chatbot architecture — combining large language models, tool-assisted reasoning, and code analysis pipelines to supercharge programming productivity.*
+An intelligent developer-support platform combining LLMs, tool-assisted reasoning, and code analysis pipelines for contextual debugging, logic explanation, and AI-driven development workflows.
+
+<br/><br/>
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786)
 
 <br/>
-
-| Feature | Description |
-|---|---|
-| Code Understanding | Contextual parsing and analysis of multi-language codebases |
-| Debug Assistance | Intelligent error tracing, root cause analysis, fix suggestions |
-| Logic Explanation | Step-by-step reasoning walkthroughs for complex code blocks |
-| Vector Retrieval | Semantic search over knowledge base for relevant context injection |
-| Scalable Backend | FastAPI-powered API with session-aware LLM conversation management |
 
 </td>
+
 </tr>
-</table>
+<tr>
+
+<!-- CARD 3 -->
+<td align="center" width="50%" valign="top">
 
 <br/>
 
-<!-- PROJECT 3 -->
-<table>
-<tr>
-<td>
+<img src="https://img.icons8.com/fluency/96/rice-bowl.png" width="64" />
 
-<div align="center">
+### Agricultural Price Prediction System
 
-### <img src="https://img.icons8.com/fluency/48/000000/rice-bowl.png" width="28" align="center" /> &nbsp; Agricultural Products Price Prediction System
+<br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -367,34 +363,28 @@ status     : Open to Internships & Collaborations
 <img src="https://img.shields.io/badge/Matplotlib-0e4c8a?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/ML%20Pipeline-00C9A7?style=flat-square" />
 
-</div>
+<br/><br/>
 
-*A machine learning-driven forecasting platform that decodes agricultural commodity pricing patterns using historical datasets, feature engineering, and statistical modeling for data-driven economic decision making.*
+A machine learning forecasting platform predicting agricultural commodity prices using historical datasets, feature engineering, statistical modeling, and visualization for data-driven economic insights.
+
+<br/><br/>
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786)
 
 <br/>
-
-| Module | Description |
-|---|---|
-| EDA & Feature Eng. | Deep exploratory analysis and domain-driven feature construction |
-| Predictive Modeling | Regression models for commodity price forecasting |
-| Pattern Analysis | Trend detection across historical market behavior |
-| Visualization | Charts for pricing insights and model performance |
-| Decision Support | Actionable forecasting output for agricultural economics |
 
 </td>
-</tr>
-</table>
+
+<!-- CARD 4 -->
+<td align="center" width="50%" valign="top">
 
 <br/>
 
-<!-- PROJECT 4 -->
-<table>
-<tr>
-<td>
+<img src="https://img.icons8.com/fluency/96/storm.png" width="64" />
 
-<div align="center">
+### Flood Probability Prediction — XAI
 
-### <img src="https://img.icons8.com/fluency/48/000000/storm.png" width="28" align="center" /> &nbsp; Flood Probability Prediction using Explainable AI — XAI
+<br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -402,21 +392,18 @@ status     : Open to Internships & Collaborations
 <img src="https://img.shields.io/badge/Explainable%20AI-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/Data%20Visualization-150458?style=flat-square&logo=plotly&logoColor=white" />
 
-</div>
+<br/><br/>
 
-*An interpretable ML system that predicts flood risk from environmental and climatic data — replacing black-box opacity with transparent, explanation-driven predictions built for disaster preparedness.*
+An interpretable ML system predicting flood risk from climatic and environmental data, replacing black-box models with SHAP-driven transparent predictions for disaster preparedness workflows.
+
+<br/><br/>
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786)
 
 <br/>
 
-| Component | Description |
-|---|---|
-| Risk Prediction | Probability-based flood forecasting using climatic parameters |
-| SHAP Attribution | Per-feature contribution scores for each prediction outcome |
-| Interpretability | Human-readable force plots and summary visualizations |
-| Transparent Modeling | Replaces black-box models with fully explainable predictions |
-| Disaster Readiness | Risk reports designed to support preparedness workflows |
-
 </td>
+
 </tr>
 </table>
 
