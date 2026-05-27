@@ -5,20 +5,14 @@
 <!-- HERO: wave background + clean name + orbit animation -->
 <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0D1117,40:0d2d2d,100:0D1117&section=header&reversal=false" width="100%" />
 
-<br/>
-
-<!-- Animated orbit SVG with name in center -->
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=9999&pause=9999&color=00C9A755&center=true&vCenter=true&width=700&height=20&lines=%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94" />
-</picture>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" />
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=4000&pause=3000&color=00C9A7&center=true&vCenter=true&width=500&height=70&lines=Aashif+Noor" />
-</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1000&pause=1500&color=00C9A7&center=true&vCenter=true&width=500&height=70&lines=Hey%20there%F0%9F%91%8B%F0%9F%8F%BA!;Its+Aashif;Welcome%20to%20my%20GitHub!" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2800&pause=700&color=88ddcc&center=true&vCenter=true&width=700&height=30&lines=AI+Engineer+%C2%B7+Full+Stack+Developer+%C2%B7+Data+Scientist" />
 
@@ -62,32 +56,33 @@ status     : Open to Internships & Collaborations
 
 <br/>
 
-> I build systems that think — from intelligent recruitment engines and explainable AI models to AI-powered developer tools and data-driven forecasting platforms. Engineering software that is not just functional but *meaningful*.
-
 </td>
 <td valign="top" width="46%" align="center">
+ 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4"  width="480" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="380" />
+> I build systems that think — from intelligent recruitment engines and explainable AI models to AI-powered developer tools and data-driven forecasting platforms. Engineering software that is not just functional but *meaningful*.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=900&color=00C9A7&center=true&vCenter=true&width=320&lines=const+passion+%3D+%22AI+%2B+Engineering%22;if+(idea)+%7B+build(it)+%7D;while+(learning)+%7B+grow()%3B+%7D" />
 
 </td>
 </tr>
 </table>
 
+
+<div  align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=900&color=00C9A7&center=true&vCenter=true&width=320&lines=const+passion+%3D+%22AI+%2B+Engineering%22;if+(idea)+%7B+build(it)+%7D;while+(learning)+%7B+grow()%3B+%7D" />
+  <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> -->
+</div>
+
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<br/>
-
----
 
 ## Tech Arsenal
 
-<br/>
 
 **Programming Languages**
 
@@ -289,7 +284,7 @@ status     : Open to Internships & Collaborations
 
 <br/>
 
-<img src="https://img.icons8.com/fluency/96/recruitment.png" width="64" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="93" />
 
 ### Recruitment Intelligence & Management System
 
@@ -302,13 +297,13 @@ status     : Open to Internships & Collaborations
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Agentic%20AI-00C9A7?style=flat-square&logo=openai&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, role-based dashboards, and agentic AI evaluation workflows for modern enterprise hiring.
 
-<br/><br/>
+<br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786/Recruitment_Intelligence_and_Management_System)
 
 <br/>
 
@@ -319,7 +314,7 @@ An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, r
 
 <br/>
 
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="64" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="64" />
 
 ### AI Coding Assistant
 
@@ -331,13 +326,13 @@ An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, r
 <img src="https://img.shields.io/badge/Vector%20Search-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-00C9A7?style=flat-square" />
 
-<br/><br/>
+<br/>
 
 An intelligent developer-support platform combining LLMs, tool-assisted reasoning, and code analysis pipelines for contextual debugging, logic explanation, and AI-driven development workflows.
 
-<br/><br/>
+<br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786/Coding_Assistant)
 
 <br/>
 
@@ -351,7 +346,7 @@ An intelligent developer-support platform combining LLMs, tool-assisted reasonin
 
 <br/>
 
-<img src="https://img.icons8.com/fluency/96/rice-bowl.png" width="64" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="64" />
 
 ### Agricultural Price Prediction System
 
@@ -363,13 +358,13 @@ An intelligent developer-support platform combining LLMs, tool-assisted reasonin
 <img src="https://img.shields.io/badge/Matplotlib-0e4c8a?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/ML%20Pipeline-00C9A7?style=flat-square" />
 
-<br/><br/>
+<br/>
 
 A machine learning forecasting platform predicting agricultural commodity prices using historical datasets, feature engineering, statistical modeling, and visualization for data-driven economic insights.
 
-<br/><br/>
+<br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786/Price-Prediction-Model-for-Agricultural-Products)
 
 <br/>
 
@@ -380,7 +375,7 @@ A machine learning forecasting platform predicting agricultural commodity prices
 
 <br/>
 
-<img src="https://img.icons8.com/fluency/96/storm.png" width="64" />
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f327_fe0f/512.gif" width="64" />
 
 ### Flood Probability Prediction — XAI
 
@@ -392,13 +387,13 @@ A machine learning forecasting platform predicting agricultural commodity prices
 <img src="https://img.shields.io/badge/Explainable%20AI-FF6F00?style=flat-square" />
 <img src="https://img.shields.io/badge/Data%20Visualization-150458?style=flat-square&logo=plotly&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 An interpretable ML system predicting flood risk from climatic and environmental data, replacing black-box models with SHAP-driven transparent predictions for disaster preparedness workflows.
 
-<br/><br/>
+<br/>
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786/Projects/tree/main/Flood%20Prediction)
 
 <br/>
 
@@ -413,7 +408,10 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <br/>
 
----
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="50%" valign="top" style="padding-right: 10px;">
 
 ## GitHub Analytics
 
@@ -421,17 +419,7 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashif786&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9A7&ring=00C9A7&fire=FF6F00&currStreakLabel=00C9A7&sideNums=00C9A7&currStreakNum=FFFFFF&dates=888888&sideLabels=888888" width="70%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aashif786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=FFFFFF&border_radius=10" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashif786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=FFFFFF&border_radius=10" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashif786&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9A7&ring=00C9A7&fire=FF6F00&currStreakLabel=00C9A7&sideNums=00C9A7&currStreakNum=FFFFFF&dates=888888&sideLabels=888888" width="100%" />
 
 </div>
 
@@ -443,9 +431,8 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 </div>
 
-<br/>
-
----
+</td>
+<td width="50%" valign="top" style="padding-left: 10px;">
 
 ## LeetCode Stats
 
@@ -453,9 +440,13 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Aashif_AK?theme=dark&font=JetBrains+Mono&ext=activity&border=0&radius=12" width="60%" />
+<img src="https://leetcard.jacoblin.cool/Aashif_AK?theme=dark&font=JetBrains+Mono&ext=activity&border=0&radius=12" width="100%" />
 
 </div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -529,10 +520,10 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=100&color=0:0D1117,50:0d2d2d,100:0D1117&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=164&color=gradient&text=No%20matter%20what%20anybody%20tells%20you%2C%20words%20and%20ideas%20can%20change%20the%20world&section=footer&fontColor=FFFFFF&fontSize=13&fontAlign=50&fontAlignY=69&reversal=true" width="100%" />
 
 <br/>
 
-*Made with care and lots of coffee — Aashif Noor*
+*Made with care and lots of coffee — Aashif Shadin*
 
 </div>
