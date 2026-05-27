@@ -60,12 +60,11 @@ status     : Open to Internships & Collaborations
 </td>
 <td valign="top" width="46%" align="center">
  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4"  width="480" />
-
-> I build systems that think — from intelligent recruitment engines and explainable AI models to AI-powered developer tools and data-driven forecasting platforms. Engineering software that is not just functional but *meaningful*.
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4"  width="390" />
 
 <br/>
-
+> I build systems that think — from intelligent recruitment engines and explainable AI models to AI-powered developer tools and data-driven forecasting platforms. Engineering software that is not just functional but *meaningful*.
+<br/>
 
 </td>
 </tr>
