@@ -11,9 +11,10 @@
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1000&pause=1500&color=00C9A7&center=true&vCenter=true&width=500&height=70&lines=Hey%20there%F0%9F%91%8B%F0%9F%8F%BA!;Its+Aashif;Welcome%20to%20my%20GitHub!" />
-
+<br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2800&pause=700&color=88ddcc&center=true&vCenter=true&width=700&height=30&lines=AI+Engineer+%C2%B7+Full+Stack+Developer+%C2%B7+Data+Scientist" />
 
 <br/>
