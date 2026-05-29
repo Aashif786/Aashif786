@@ -41,10 +41,10 @@
 ## `> whoami`
 
 ```yaml
-name       : Aashif Noor
+name       : Aashif Shadin K N
 role       : AI Engineer & Full Stack Developer
 education  : B.Tech — Artificial Intelligence & Data Science
-location   : India
+location   : Coimbatore, Tamilnadu, India
 focus      :
   - Intelligent Systems & Agentic AI
   - Full Stack Web Engineering
