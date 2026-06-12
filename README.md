@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Aashif786&label=Profile+Views&color=00C9A7&style=flat-square" align="right" />
 
 <!-- HERO: wave background + clean name + orbit animation -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0D1117,40:0d2d2d,100:0D1117&section=header&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=70&color=0:0D1117,40:0d2d2d,100:0D1117&section=header&reversal=false" width="100%" />
 
 
 <br/>
