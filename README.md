@@ -3,14 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=Aashif786&label=Profile+Views&color=00C9A7&style=flat-square" align="right" />
 
 <!-- HERO: wave background + clean name + orbit animation -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=70&color=0:0D1117,40:0d2d2d,100:0D1117&section=header&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0D1117,40:0d2d2d,100:0D1117&section=header&reversal=false" width="100%" />
 
-
-<br/>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1000&pause=1500&color=00C9A7&center=true&vCenter=true&width=500&height=70&lines=Hey%20there%F0%9F%91%8B%F0!;Its+Aashif;Welcome%20to%20my%20GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=1000&pause=1500&color=00C9A7&center=true&vCenter=true&width=500&height=70&lines=Hey%20there%F0%9F%91%8B!;Its+Aashif;Welcome%20to%20my%20GitHub!" />
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
@@ -29,10 +24,6 @@
 
 <br/>
 
----
-
-<br/>
-
 <!-- ABOUT ME -->
 <table>
 <tr>
@@ -41,18 +32,18 @@
 ## `> whoami`
 
 ```yaml
-name       : Aashif Shadin K N
-role       : AI Engineer & Full Stack Developer
-education  : B.Tech — Artificial Intelligence & Data Science
-location   : Coimbatore, Tamilnadu, India
-focus      :
+name: Aashif Shadin K N
+role: AI Engineer & Full Stack Developer
+education: B.Tech — Artificial Intelligence & Data Science
+location: Coimbatore, Tamilnadu, India
+focus:
   - Intelligent Systems & Agentic AI
   - Full Stack Web Engineering
   - Machine Learning Pipelines
   - Data Science & Predictive Analytics
   - Scalable Backend Architecture
-motto      : "Think. Build. Solve."
-status     : Open to Internships & Collaborations
+motto: "Think. Build. Solve."
+status: Open to Internships & Collaborations
 ```
 
 <br/>
@@ -72,7 +63,6 @@ status     : Open to Internships & Collaborations
 </tr>
 </table>
 
-
 <div  align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=900&color=00C9A7&center=true&vCenter=true&width=320&lines=const+passion+%3D+%22AI+%2B+Engineering%22;if+(idea)+%7B+build(it)+%7D;while+(learning)+%7B+grow()%3B+%7D" />
@@ -80,7 +70,6 @@ status     : Open to Internships & Collaborations
 </div>
 
 <br/>
-
 
 ## Featured Projects
 
@@ -98,7 +87,7 @@ status     : Open to Internships & Collaborations
 
 ### Recruitment Intelligence & Management System
 
-*RIMS*
+_RIMS_
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -212,13 +201,9 @@ An interpretable ML system predicting flood risk from climatic and environmental
 </tr>
 </table>
 
-
 <br/>
 
-
-
 ## Tech Arsenal
-
 
 **Programming Languages**
 
@@ -412,7 +397,6 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <br/>
 
-
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td width="50%" valign="top" style="padding-right: 10px;">
@@ -466,13 +450,13 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <div align="center">
 
-| Language | Native Region | Proficiency |
-|:---:|:---:|:---|
-| Tamil | South India | `████████████` Native |
-| English | Global | `██████████░░` Professional |
-| Hindi | North India | `███████░░░░░` Basic |
-| Urdu | South Asia | `██████░░░░░░` Basic |
-| Malayalam | Kerala | `█████░░░░░░░` Basic |
+| Language  | Native Region | Proficiency                 |
+| :-------: | :-----------: | :-------------------------- |
+|   Tamil   |  South India  | `████████████` Native       |
+|  English  |    Global     | `██████████░░` Professional |
+|   Hindi   |  North India  | `███████░░░░░` Basic        |
+|   Urdu    |  South Asia   | `██████░░░░░░` Basic        |
+| Malayalam |    Kerala     | `█████░░░░░░░` Basic        |
 
 </div>
 
@@ -528,6 +512,6 @@ An interpretable ML system predicting flood risk from climatic and environmental
 
 <br/>
 
-*Made with care and lots of coffee — Aashif Shadin*
+_Made with care and lots of coffee — Aashif Shadin_
 
 </div>
