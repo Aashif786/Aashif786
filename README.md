@@ -130,7 +130,11 @@ An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, r
 
 <br/>
 
+<blockquote align = "justify">
+<sub>
 An intelligent developer-support platform combining LLMs, tool-assisted reasoning, and code analysis pipelines for contextual debugging, logic explanation, and AI-driven development workflows.
+</sub>
+</blockquote>
 
 <br/>
 
@@ -162,7 +166,12 @@ An intelligent developer-support platform combining LLMs, tool-assisted reasonin
 
 <br/>
 
+
+<blockquote align = "justify">
+<sub>
 A machine learning forecasting platform predicting agricultural commodity prices using historical datasets, feature engineering, statistical modeling, and visualization for data-driven economic insights.
+</sub>
+</blockquote>
 
 <br/>
 
@@ -191,7 +200,12 @@ A machine learning forecasting platform predicting agricultural commodity prices
 
 <br/>
 
+
+<blockquote align = "justify">
+<sub>
 An interpretable ML system predicting flood risk from climatic and environmental data, replacing black-box models with SHAP-driven transparent predictions for disaster preparedness workflows.
+</sub>
+</blockquote>
 
 <br/>
 
