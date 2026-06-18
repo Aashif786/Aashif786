@@ -403,15 +403,7 @@ An interpretable ML system predicting flood risk from climatic and environmental
 </tr></table>
 
 <br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 <br/>
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
