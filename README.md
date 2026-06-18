@@ -57,7 +57,9 @@ status: Open to Internships & Collaborations
 
 <br/>
 <blockquote align = "justify">
+<i>
 I build systems that think, from intelligent recruitment engines and explainable AI models to AI-powered developer tools and data-driven forecasting platforms. Engineering software that is not just functional but *meaningful*.
+</i>
 </blockquote>
 <br/>
 
