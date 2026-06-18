@@ -98,8 +98,10 @@ I build systems that think, from intelligent recruitment engines and explainable
 <img src="https://img.shields.io/badge/Agentic%20AI-00C9A7?style=flat-square&logo=openai&logoColor=white" />
 
 <br/>
-<blockquote font="sm">
+<blockquote align = "justify">
+<sub>
 An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, role-based dashboards, and agentic AI evaluation workflows for modern enterprise hiring.
+</sub>
 </blockquote>
 <br/>
 
