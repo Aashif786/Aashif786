@@ -98,9 +98,9 @@ I build systems that think, from intelligent recruitment engines and explainable
 <img src="https://img.shields.io/badge/Agentic%20AI-00C9A7?style=flat-square&logo=openai&logoColor=white" />
 
 <br/>
-
+<blockquote font="sm">
 An AI-powered recruitment ecosystem with candidate ranking, resume evaluation, role-based dashboards, and agentic AI evaluation workflows for modern enterprise hiring.
-
+</blockquote>
 <br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aashif786/Recruitment_Intelligence_and_Management_System)
