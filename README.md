@@ -27,7 +27,7 @@
 <!-- ABOUT ME -->
 <table>
 <tr>
-<td valign="top" width="54%">
+<td valign="top" width="48%">
 
 ## `> whoami`
 
