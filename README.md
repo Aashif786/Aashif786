@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR-USERNAME)
+![](https://komarev.com/ghpvc/?username=Aashif786)
 
 <!-- HERO: wave background + clean name + orbit animation -->
 <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:0D1117,40:0d2d2d,100:0D1117&section=header&reversal=false" width="100%" />
